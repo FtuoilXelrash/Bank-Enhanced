@@ -2,7 +2,7 @@
  * This is a Fork of the sample MOD Bank orginaly created by [aquafir(https://github.com/aquafir)]
  
  
- ## Bank
+ ## Bank https://github.com/aquafir/ACE.BaseMod
 
 This mod adds common banking options for items, currency, and luminance.
 
