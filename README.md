@@ -4,7 +4,7 @@
 
 
 
-- This mod adds common banking options for 
+-This mod adds common banking options for 
 * items
 * currency
 * luminance
