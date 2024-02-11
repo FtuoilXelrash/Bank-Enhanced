@@ -1,5 +1,5 @@
 ## Bank Enhanced
- * This is a Fork of the sample MOD Bank orginaly created by https://github.com/aquafir
+ * This is a Fork of the sample MOD Bank orginaly created by [aquafir(https://github.com/aquafir)]
  
  
  ## Bank
