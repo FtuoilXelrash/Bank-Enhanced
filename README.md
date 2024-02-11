@@ -5,7 +5,7 @@
 
  
  
- ## [Bank](https://github.com/aquafir/ACE.BaseMod)
+ ## [Bank](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank)
 
 This mod adds common banking options for items, currency, and luminance.
 
