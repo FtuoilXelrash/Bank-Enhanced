@@ -44,7 +44,7 @@ The available commands are:
 * `ExcessSetToMax` will reduce a quantity exceeding the max to the max amount
 
 
-### [Demos Videos](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank) on how the Mod works.
+### Demos videos on how the Mod works can be found [here](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank).
 
 
 
