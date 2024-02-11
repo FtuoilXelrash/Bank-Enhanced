@@ -1,6 +1,6 @@
 ## Bank Enhanced
  * This is a Fork of the sample Mod project [Bank](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank) orginaly created by [aquafir](https://github.com/aquafir)
- * Demo videos on how the Mod works can be found [here](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank).
+ * Demo videos on how the Mod works can be found [here](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank)
 
 This mod adds common banking options for items, currency, and luminance.
 
