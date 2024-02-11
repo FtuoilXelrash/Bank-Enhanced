@@ -6,9 +6,10 @@
 
 This mod adds common banking options for 
 
- * items
- * currency
- * luminance
+ * Items
+ * Currency
+ * Luminance
+   
 
 
 The verbs available are currently:
