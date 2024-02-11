@@ -1,4 +1,8 @@
-﻿## Bank
+##Bank Enhanced
+ * This is a Fork of the sample MOD Bank orginaly created by 
+ 
+ 
+ ## Bank
 
 This mod adds common banking options for items, currency, and luminance.
 
