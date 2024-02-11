@@ -1,5 +1,5 @@
 ## Bank Enhanced
- * This is a Fork of the sample Mod project [Bank](https://github.com/aquafir/ACE.BaseMod) orginaly created by [aquafir](https://github.com/aquafir)
+ * This is a Fork of the sample Mod project [Bank](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank) orginaly created by [aquafir](https://github.com/aquafir)
    
 
 
