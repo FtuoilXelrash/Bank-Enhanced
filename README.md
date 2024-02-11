@@ -2,13 +2,7 @@
  * This is a Fork of the sample Mod project [Bank](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank) orginaly created by [aquafir](https://github.com/aquafir)
    
 
-
- 
- 
- ## [Bank](https://github.com/aquafir/ACE.BaseMod/tree/master/Samples/Bank)
-
 This mod adds common banking options for items, currency, and luminance.
-
 
 
 The verbs available are currently:
